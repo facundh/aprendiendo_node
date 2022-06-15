@@ -1,1 +1,2 @@
-/salidas/*.txt
+node_modules/
+salidas/*.txt
